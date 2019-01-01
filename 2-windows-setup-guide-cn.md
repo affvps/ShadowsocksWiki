@@ -41,7 +41,7 @@
 
 ![即可看到配置服务器信息](files/images/win-autofill.png)
 
-* 如果你真的不知道怎么操作，请请点击 [gui-config文件下载](https://github.com/lmc920/ShadowsocksWiki/blob/master/gui-config.json) 下载 gui-config 配置文件，将  `gui-config.json` 文件拖放在与 `Shadowsocks.exe` 相同的文件目录下。
+* 如果你真的不知道怎么操作，请请点击 [gui-config文件下载](https://raw.githubusercontent.com/lmc920/ShadowsocksWiki/master/gui-config.json) 下载 gui-config 配置文件，将  `gui-config.json` 文件拖放在与 `Shadowsocks.exe` 相同的文件目录下。
 
 * 右键状态栏![ss icon](files/images/win-icon.png) > "启用系统代理”。
 
@@ -59,7 +59,7 @@
 ## 配置系统代理模式
 * 右键状态栏![ss icon](files/images/win-icon.png) > "系统代理模式" > "PAC模式"。
 
-* 如果使用 PAC 模式无法访问网站，请点击 [Pac文件下载](https://github.com/lmc920/ShadowsocksWiki/blob/master/pac.txt) 下载 pac 配置文件，将  `pac.txt` 文件拖放在与 `Shadowsocks.exe` 相同的文件目录下。
+* 如果使用 PAC 模式无法访问网站，请点击 [Pac文件下载](https://raw.githubusercontent.com/lmc920/ShadowsocksWiki/master/pac.txt) 下载 pac 配置文件，将  `pac.txt` 文件拖放在与 `Shadowsocks.exe` 相同的文件目录下。
 
 ![pac模式](files/images/win-pac.png)
 
