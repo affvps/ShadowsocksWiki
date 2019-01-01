@@ -32,6 +32,21 @@
 ShadowsocksR 版 Windows 客户端  
 <pre>https://github.com/shadowsocksrr/shadowsocksr-csharp/releases</pre>
 
+ShadowsocksR 版 Windows 客户端  
+<pre>https://github.com/shadowsocksrr/shadowsocksr-csharp/releases</pre>
+
+ShadowsocksX-NG 版 MacOS 客户端  
+<pre>https://github.com/shadowsocks/ShadowsocksX-NG/releases/</pre>
+
+iOS 客户端  
+* [Potatso Lite](https://itunes.apple.com/us/app/potatso-lite/id1239860606?mt=8) （免费）
+* [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8) （收费）
+* [Potatso 2](https://itunes.apple.com/us/app/potatso-2/id1162704202?mt=8)（收费）
+
+Android 客户端  
+[Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks) 上下载最新的Shadowsocks 客户端，或通过Github 直接[下载](https://github.com/shadowsocks/shadowsocks-android/releases) .apk 文件进行安装
+
+
 使用方法  
 使用root用户登录，运行以下命令：  
 
