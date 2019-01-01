@@ -1,6 +1,6 @@
 # 如何安装Shadowsocks服务端
 ## 服务器购买
-理论上各类独服、VPS、NAT-VPS均可安装Shadowsocks服务，但由于GFW、服务商带宽线路等问题会造成Shadowsocks服务连接速度较慢，选购服务器前需要提前了解一下服务器基本信息，可以参考本人的博客 [我的博客](http://blog.csdn.net/guodongxiaren "AFFVPS")
+理论上各类独服、VPS、NAT-VPS均可安装Shadowsocks服务，但由于GFW、服务商带宽线路等问题会造成Shadowsocks服务连接速度较慢，选购服务器前需要提前了解一下服务器基本信息，可以参考本人的博客 [我的博客](http://affvps.net "AFFVPS")
 
 
 ## Shadowsocks 一键安装脚本（四合一）
