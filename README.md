@@ -1,6 +1,6 @@
 # Shadowsocks 购买和使用教程
 
-## 1 如何使用我们的网站
+## 1 如何安装Shadowsocks服务端
 
 [服务端安装介绍，包括购买服务器、Shadowsocks各类版本服务端安装等内容](1-install-shadowsocks-server.md)
 
