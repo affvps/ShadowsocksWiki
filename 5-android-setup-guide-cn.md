@@ -6,7 +6,7 @@
 
 ## 2、获取 Shadowsocks 账号信息
 
-详见 [购买流程以及查看账号信息](1-introduction-of-client-portal.md)
+[如何安装Shadowsocks服务端](https://github.com/lmc920/ShadowsocksWiki/blob/master/1-install-shadowsocks-server.md)中获得的客户端配置信息在即为Shadowsocks 账号信息。
 
 ## 3、配置 Shadowsocks 客户端
 
@@ -20,9 +20,7 @@
 
 ### 通过扫描二维码的方式添加
 
-按下扫描二维码后到您其他设备打开产品详情界面点击节点红色节点旁的二维码图标
-
-![](https://ooo.0o0.ooo/2017/01/04/586d0cae41e3b.png)
+[如何安装Shadowsocks服务端](https://github.com/lmc920/ShadowsocksWiki/blob/master/1-install-shadowsocks-server.md)中获得的your_path.png即为此处需要的二维码。
 
 进行扫码后即可配置完成
 

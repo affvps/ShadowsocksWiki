@@ -31,7 +31,8 @@
 
 **扫码配置**
 
-* 点击 "二维码" > "Potatso Lite 想访问您的相机"的窗口，选择 "好" > 扫描你节点的二维码，节点将自动添加成功。
+* 点击 "二维码" > "Potatso Lite 想访问您的相机"的窗口，选择 "好" > 扫描你节点的二维码，节点将自动添加成功。  
+[如何安装Shadowsocks服务端](https://github.com/lmc920/ShadowsocksWiki/blob/master/1-install-shadowsocks-server.md)中获得的your_path.png即为此处需要的二维码。
 
 **手动配置**
 
