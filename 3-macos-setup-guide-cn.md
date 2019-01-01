@@ -35,8 +35,6 @@
 
 #### 在您的电脑上， 执行下列操作：
 
-**点击[这里](1-introduction-of-client-portal.md)学习如何使用我们的网站查看节点信息。**
-
 * 点击屏幕顶部菜单栏的 ![menu_icon_disabled](files/images/mac-menu_icon_disabled.png)> "服务器" > "服务器设置"。
 
 ![点击屏幕最上方菜单栏](files/images/mac-menubar.png)
@@ -49,8 +47,6 @@
 ![服务器设置，打开ss](files/images/mac-shadowsocksSetting.png)
 
 #### 可以通过二维码方式单独增加节点， 在您的电脑上， 执行下列操作：
-
-**点击[这里](1-introduction-of-client-portal.md)学习如何使用我们的网站查看二维码。**
 
 此二维码同样适用于其他客户端。
 
